@@ -1,5 +1,8 @@
-# Decascade
-<sub>A humble <a href="https://github.com/andreasgrafen/cascade">cascade</a> fork for TST for my personal use</sub>
+# Side-cascade
+<sub>A <a href="https://github.com/andreasgrafen/cascade">cascade</a> fork for TST for my personal use</sub>
+<br>
+<br>
+Essentially, this is a fusion between <a href="https://github.com/refact0r/sidefox">Sidefox</a> and Cascade, resulting in a combination that I value highly.
 <br>
 <p style="text-align:center">
 <img src="https://github.com/Sororfortuna/decascade/assets/18470725/78cca087-ab11-4bdb-9091-ff6f9c3085cd" width="800">
