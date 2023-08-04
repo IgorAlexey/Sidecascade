@@ -1,33 +1,3 @@
-/*==============================================================================================*
-
-  +-----+-----+-----+-----+-----+-----+-----+
-  | █▀▀ | ▄▀█ | █▀▀ | █▀▀ | ▄▀█ | █▀▄ | █▀▀ |
-  | █▄▄ | █▀█ | ▄▄█ | █▄▄ | █▀█ | █▄▀ | ██▄ |
-  +-----+-----+-----+-----+-----+-----+-----+
-
-  Description:    Cascade is a minimalstic and keyboard centered custom theme removing a lot of the
-                  subjective clutter default Firefox comes with. This theme is highly inspired by the
-                  stylistic choices of SimpleFox by Miguel Ávila. 🦊
-                  https://github.com/migueravila/SimpleFox
-
-  Author:         Andreas Grafen
-                  (https://andreas.grafen.info)
-
-  Repository:     https://github.com/andreasgrafen/cascade
-                  Thank you Nick, Abdallah, Benyamin and Wael for all the great suggestions for improvements! ♡
-
-                  Nick:     https://github.com/nicksundermeyer
-                  Abdallah: https://github.com/HeiWiper
-                  Benyamin: https://github.com/benyaminl
-                  Wael:     https://github.com/wael444
-
-                  If you're looking for a **mouse-friendly** clone please check out Waterfall.
-                  https://github.com/crambaud/waterfall
-
-*==============================================================================================*/
-
-
-
 @import 'includes/cascade-config.css';
 
 @import 'includes/cascade-layout.css';
@@ -39,9 +9,6 @@
 
 #TabsToolbar { display: none !important; }
 #nav-bar { width: 100vw !important; }
-
-
-
 #browser { position: relative; }
 #sidebar-box[sidebarcommand*="tabcenter"] #sidebar-header { display: none; }
 
