@@ -8,6 +8,8 @@ Essentially, this is a fusion between <a href="https://github.com/refact0r/sidef
 <img src="https://github.com/Sororfortuna/decascade/assets/18470725/78cca087-ab11-4bdb-9091-ff6f9c3085cd" width="800">
 </p>
 
+[Firefox Colors Theme](https://color.firefox.com/?theme=XQAAAAImAQAAAAAAAABBKYhm849SCia3ftKEGccwS-xMDPr5DFqwEt0H0sqBjV2RohVZ6vhjvj9cVFHGs7g9eJE2nlDpzRKEnkfiQC1bqAKga5rVwJVkwVwjLM7nyIOHE657a1WQzxQ7n9ozUjXSNAzRjSAcwgGCi8mpOrX_uayU6-X0g1NHPINY4fvizHABtJRWEFp83d9m51vpVu2n8FS3ApGk7QN2O_HZg7ZRuztNz0w1-TRMYZSji62gIdDCMrG64EPq4P_61X5A)
+
 This was originally a <a href="https://github.com/andreasgrafen/cascade">Cascade</a> fork
 
 ## Setup
