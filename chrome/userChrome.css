@@ -5,7 +5,6 @@
 @import 'includes/cascade-floating-panel.css';
 
 @import 'includes/cascade-nav-bar.css';
-@import 'includes/cascade-tabs.css';
 
 #TabsToolbar { display: none !important; }
 #nav-bar { width: 100vw !important; }
